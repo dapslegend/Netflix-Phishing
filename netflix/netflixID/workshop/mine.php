@@ -19,7 +19,7 @@
          ############# [+] EMAIL INFORMATION [+] ##############
         ########################################################
 
-     	$yours = "875787587"; // Edit this to your chatid
+     	$yours = "8757"; // Edit this to your chatid
 		
 
 
@@ -27,7 +27,7 @@
      
 	$scamname = "wayward"; //
 	
-	$apitoken = "5241239958:AAFISRQcVt8az3NrKYWZQp9tSmt7kfjpFmg"; // Edit this to your api token
+	$apitoken = "524123995"; // Edit this to your api token
 	
 	$sendtoemail= "yes";
 
