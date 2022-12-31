@@ -9,3 +9,6 @@ For Education Purpose Only.
 For Education Purpose Only.
 For Education Purpose Only.
 For Education Purpose Only.
+
+
+The only effective measure against this threat is to add 2fa to your account.
